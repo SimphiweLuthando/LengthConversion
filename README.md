@@ -19,7 +19,7 @@ To get a local copy of the project up and running, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/unit-conversion-app.git
+git clone https://github.com/SimphiweLuthando/unit-conversion-app.git
 ```
 2. Open the project in Xcode.
 3. Build and run the app on the simulator or a physical device.
